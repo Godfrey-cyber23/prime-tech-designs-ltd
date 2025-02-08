@@ -1,24 +1,11 @@
-# README
+This file provides an overview of the project, including:
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Project name and description
 
-Things you may want to cover:
+Technologies used
 
-* Ruby version
+How to set up and run the project
 
-* System dependencies
+Team members and their roles
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Contact information
